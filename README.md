@@ -20,4 +20,4 @@ I started by splitting the data into training and test sets. Next, I tested mult
 
 1) Our model is currently built off of the draft classes between 1985 and 2000, we still dont know if it continues it's predictive strength after the year 2000.
 
-2) Extend predictions to players who are outside the NCAA, am I able to create a model that can predict the success of international prospects?
+2) Extend prediction's to players who are outside the NCAA, am I able to create a model that can predict the success of international prospects?
