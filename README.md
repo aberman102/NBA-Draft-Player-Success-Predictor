@@ -1,4 +1,4 @@
-# NCAA Player Prediction Project
+# NCAA Player Prediction Project 
 
 As the sports world continues to grow and devlop, there has been a movement for teams to start building their rosters through the amateur draft. Drafting young players is considered advantageus due to the incredibly low salarys paid out to young players and the ability to hold onto a player for a long period of time due to league negotiating restrictions. While building through the draft has a very high upside, there is also the downside. Team's must take educated guesses on the players they are drafting and hope that the players they pick are going to be successful in the league. In the National Basketball Association (NBA), teams get two picks per draft and the average career length is 5 years. What this tells us is that most organizations are struggling to pick the right rookies to improve their rosters. I have set out to find a better way to scout rookies based on their NCAA production. I believe, that being able to predict off of statistical output provides for a better scouting report than just using the "eye test".
 
